@@ -1,0 +1,17 @@
+body {
+  background-image: url("agriculture.jpg");  /* Set your background image path */
+  background-size: cover;  /* Resize the image to cover the entire body */
+  background-position: center;  /* Center the image */
+}
+.white-text {
+  color: white;
+}
+
+#chatbot-container {
+  position: fixed;
+  right: 0;  /* Position right edge at 0 (right corner) */
+  bottom: 20px;  /* Maintain 20px from bottom edge */
+  width: 600px;  /* Increase width */
+  height: 600px;  /* Increase height */
+}
+
